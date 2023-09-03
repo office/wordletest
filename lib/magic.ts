@@ -15,6 +15,6 @@ const createMagic = (key: string) => {
   );
 };
 
-const key: string = process.env.NEXT_PUBLIC_MAGIC_PUBLISHABLE_KEY || '';
+const key: string ='pk_live_AF8ABAA0ADBCAB59';
 
 export const magic: any = createMagic(key);
