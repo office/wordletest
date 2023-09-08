@@ -1,18 +1,12 @@
 # WordDuel
-
-[WordDuel](https://www.wordduel.xyz/) is a P2P, fully onchain game built on [Base](https://base.org/) and inspired by a popular New York Times game called [Wordle](https://en.wikipedia.org/wiki/Wordle). The difference is that you play a friend and if you win, you'll earn some ETH.
+Play a friend and if you win, you'll earn some ETH. Built on Base
 
 ## How do you play ?
 
-WordDuel is a turn-based game meant to be played with two players in real-time. Each player takes a turn guessing the right word and hints are given along the way. You can learn more about the hints [here](https://www.nytimes.com/games/wordle/index.html).
+The game is meant to be played with two players in real-time. Each player takes a turn guessing the right word and hints are given along the way.
 
 You start by signing up with your email and depositing ETH into a wallet that's created on your behalf. To create a game or "duel", you'll declare your opponent's email and the cost for each guess. The only person who can accept the duel is the owner of the email you declared. Let's say the cost of each guess is 0.01 ETH. Each time a player makes a guess they'll have to spend 0.01 ETH. Whoever guesses the right word first, wins all the ETH that has been spent during the duel.
 
-Follow me on [twitter](https://twitter.com/davidhurley87) for all the latest updates.
-
-## Who am I?
-
-My name is [David Hurley](https://twitter.com/davidhurley87). I'm an onchain developer at [Seed Club](https://www.seedclub.xyz/), the leading consumer crypto accelerator. I've built [Mojo](https://www.mojo.club/) and [LFTG](https://www.lftg.xyz/) in my spare time.
 
 ## Install
 
@@ -62,13 +56,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 Mkae sure you add your env variables.
-
-## How You Can Contribute
-
-Here's how you can get involved:
-
-- **Submit a Pull Request:** If you see any potential improvement, go for it. Any contributions are welcome.
-
-- **Sponsor me** I'm looking for at least $10,000 in sponsorship so that I go full-time into building this project.
-
-**Email me at dhurls99@gmail.com and we can play heads up!**
